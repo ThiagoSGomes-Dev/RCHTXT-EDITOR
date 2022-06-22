@@ -1,3 +1,6 @@
+// $('#test').emojioneArea({
+//    pickerPosition: 'absolute'
+//});
 function f1() {
     //function to make the text bold using DOM method
     document.getElementById("textarea1").style.fontWeight = "bold";
